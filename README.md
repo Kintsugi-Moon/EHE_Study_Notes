@@ -4,6 +4,9 @@ This repository contains my personal study notes for the **Ethical Hacking Essen
 
 ## Contents
 
+For a detailed overview of each module, see the [course index](COURSE_INDEX.md).
+
+
 At the moment the repository only includes these notes, but additional summaries or code samples may be added as the course progresses.
 
 - Networking fundamentals
